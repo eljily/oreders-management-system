@@ -1,13 +1,13 @@
-package com.sidibrahim.restomanagementsystem;
+package com.sidibrahim.oms;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
 
 @SpringBootApplication
-public class RestoManagementSystemApplication {
+public class BrainApplication {
 
     public static void main(String[] args) {
-        SpringApplication.run(RestoManagementSystemApplication.class, args);
+        SpringApplication.run(BrainApplication.class, args);
     }
 
 }
