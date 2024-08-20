@@ -21,5 +21,6 @@ public class Location {
 
     private String description; // e.g., "Poolside seat", "VIP Hall"
 
-    // Constructors, getters, and setters
+    private String qrCode;
+
 }
